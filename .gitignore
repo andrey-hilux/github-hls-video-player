@@ -1,0 +1,11 @@
+/*
+/*/
+!/_includes/
+!/.github/
+!.gitignore
+!_config.yml
+!/.bkps/listfile.txt
+!/video/
+!/donate/
+!/docs/
+!README.md
